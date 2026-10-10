@@ -2,7 +2,7 @@
 
 A calm, colourful theme for Obsidian: a warm paper page, soft platinum sidebars, pastel accents and a friendly serif for titles. **Dusk**, its dark mode, stays colourful instead of turning grey.
 
-It's made to go with the [Matters that Matter](https://github.com/manueldelgado/Matters-that-Matter) plugin, a board, list, calendar and timeline where every card and every lane is a note, and it works just as well on its own.
+It's made to go with the [Matters that Matter](https://community.obsidian.md/plugins/matters-that-matter) plugin, a board, list, calendar and timeline where every card and every lane is a note, and it works just as well on its own.
 
 ![Calm Matters in Light, with the Matters that Matter board](images/board-light.webp)
 
