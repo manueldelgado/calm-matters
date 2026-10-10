@@ -48,4 +48,4 @@ By hand: copy `theme.css` and `manifest.json` from the latest release into `<you
 
 ## Licence
 
-Theme code: MIT. Embedded fonts: SIL Open Font License 1.1. See [LICENSE](LICENSE).
+Theme code: MIT, see [LICENSE](LICENSE). Embedded fonts (Figtree, Young Serif, JetBrains Mono): SIL Open Font License 1.1, see [OFL.txt](OFL.txt).
